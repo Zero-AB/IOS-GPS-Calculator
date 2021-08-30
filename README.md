@@ -1,2 +1,2 @@
-# Assignment 1
-This application is for a gpa calculator
+# Assignment 1 created in University
+This application is for a gpa calculator using swift for iphone devices.
